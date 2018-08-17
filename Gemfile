@@ -11,7 +11,7 @@ gem 'activeadmin', github: 'activeadmin'
 
 # Test app stuff
 
-gem 'rails', '~> 4.0'
+gem 'rails', '~> 5.2'
 
 gem 'devise'
 
